@@ -1,0 +1,56 @@
+{
+  "name": "Національний Університет",
+  "head": {
+    "firstName": "Іван",
+    "lastName": "Петров",
+    "middleName": "Сергійович",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "Факультет Інформатики",
+      "head": {
+        "firstName": "Петро",
+        "lastName": "Іванов",
+        "middleName": "Валерійович",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "Кафедра Програмування",
+          "head": {
+            "firstName": "Марія",
+            "lastName": "Коваленко",
+            "middleName": "Вікторівна",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "ІП-01",
+              "head": {
+                "firstName": "Олег",
+                "lastName": "Сидоренко",
+                "middleName": "Володимирович",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Андрій",
+                  "lastName": "Шевченко",
+                  "middleName": "Миколайович",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Олена",
+                  "lastName": "Кравчук",
+                  "middleName": "Миколаївна",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
